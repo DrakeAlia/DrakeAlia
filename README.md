@@ -13,21 +13,27 @@
 [<img align="left" alt="DrakeAlia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-<br />
-
 ### Programming Languages:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html5&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=css3&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-React-informational?style=flat&logo=react&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-Node-informational?style=flat&logo=node.js&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-SASS-informational?style=flat&logo=sass&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-Jest-informational?style=flat&logo=jest&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-Git-informational?style=flat&logo=git&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=redux&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-Knex-informational?style=flat&logo=Knex.js&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=black)
 
-<br />
-<br />
+<!-- Add shields to your GitHub [here](https://shields.io/) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyk&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/antonyk/github-readme-stats)
+[![antonyk's github stats](https://github-readme-stats.vercel.app/api?username=antonyk&show_icons=true&theme=vision-friendly-dark)](https://github.com/antonyk/github-readme-stats)
+
+<!--Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats) -->

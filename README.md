@@ -1,6 +1,6 @@
-### Hi there! I'm Drake Alia 👋
+# Hi there! I'm Drake Alia 👋
 
-# I'm a Developer who loves to create and builds apps!
+I'm a Developer who loves to create and builds apps!
 
 ## Me:
 

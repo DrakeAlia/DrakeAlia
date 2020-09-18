@@ -1,8 +1,7 @@
 # Hi there! I'm Drake Alia 👋
 
-I'm a Developer who loves to create and builds apps!
-
-## Me:
+I'm a Developer who loves to create and builds apps! 🎉🎉🎉
+## 👨‍💻 Me:
 
 - 🔭 I’m currently working on a prject which uses a reservation flow for users
 - 📚 I'm currently expanding my redux skills
@@ -24,7 +23,7 @@ I'm a Developer who loves to create and builds apps!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-### Tools:
+### 🧰 Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>

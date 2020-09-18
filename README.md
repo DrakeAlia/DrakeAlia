@@ -9,11 +9,12 @@ I'm a Developer who loves to create and build apps! 🎉🎉🎉
 - 🥅 My goals for 2020: To contribute to more projects with others
 - ⚡️ Fun fact about me: I love to cook and treat coding like coooking 😂
 
-### 📱 Where to find me:
+### 📱 Conntact:
 
 [<img align="left" alt="E-Mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 
 ### 🧠 Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -38,5 +39,7 @@ I'm a Developer who loves to create and build apps! 🎉🎉🎉
 
 <!--Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats) -->
 
+<br />
+<br />
 [email]: mailto:drakealia@gmail.com
 [linkedin]: https://www.linkedin.com/in/drake-alia/

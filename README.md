@@ -7,7 +7,7 @@
 - 🥅 My goals for 2020 is to contribute to more project with others
 - ⚡️ Fun fact about me: I love to cook and treat coding like coooking 😂
 ### Connect with me:
-[<img align="left" alt="DrakeAlia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DrakeAlia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 
 
 <br />

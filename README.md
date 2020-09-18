@@ -1,18 +1,18 @@
 # Hi there! I'm Drake Alia 👋
 
-I'm a Developer who loves to create and builds apps! 🎉🎉🎉
+I'm a Developer who loves to create and build apps! 🎉🎉🎉
 ## 👨‍💻 Me:
 
 - 🔭 I’m currently working on a prject which uses a reservation flow for users
 - 📚 I'm currently expanding my redux skills
 - 👯 I'm looking to collaborate with other devs 
-- 🥅 My goals for 2020: To contribute to more project with others
+- 🥅 My goals for 2020: To contribute to more projects with others
 - ⚡️ Fun fact about me: I love to cook and treat coding like coooking 😂
 
-### 📱 Connect with me:
+### 📱 Where to find me:
 
-[<img align="left" alt="DrakeAlia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DrakeAlia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="E-Mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ### 🧠 Languages:
@@ -37,3 +37,6 @@ I'm a Developer who loves to create and builds apps! 🎉🎉🎉
 [![antonyk's github stats](https://github-readme-stats.vercel.app/api?username=DrakeAlia&show_icons=true&theme=vision-friendly-dark)](https://github.com/DrakeAlia/github-readme-stats)
 
 <!--Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats) -->
+
+[email]: mailto:drakealia@gmail.com
+[linkedin]: https://www.linkedin.com/in/drake-alia/

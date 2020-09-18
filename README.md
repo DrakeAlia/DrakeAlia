@@ -31,3 +31,10 @@
 ![](https://img.shields.io/badge/code-Knex-informational?style=flat&logo=Knex.js&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=black)
 
+
+<!-- Add shields to your GitHub [here](https://shields.io/) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrakeAlia&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/DrakeAlia/github-readme-stats)
+[![antonyk's github stats](https://github-readme-stats.vercel.app/api?username=DrakeAlia&show_icons=true&theme=vision-friendly-dark)](https://github.com/DrakeAlia/github-readme-stats)
+
+<!--Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats) -->

@@ -40,6 +40,6 @@ I'm a Developer who loves to create and build apps! 🎉🎉🎉
 <!--Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br />
-<br />
+
 [email]: mailto:drakealia@gmail.com
 [linkedin]: https://www.linkedin.com/in/drake-alia/

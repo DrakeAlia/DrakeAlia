@@ -3,7 +3,7 @@
 I'm a Developer who loves to create and build apps! 🎉🎉🎉
 ## 👨‍💻 Me:
 
-- 🔭 I’m currently working on a prject which uses a reservation flow for users
+- 🔭 I’m currently working on recreating tesla's website on my own using react!
 - 📚 I'm currently expanding my redux skills
 - 👯 I'm looking to collaborate with other devs 
 - 🥅 My goals for 2020: To contribute to more projects with others

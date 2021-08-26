@@ -4,9 +4,9 @@ I'm a Developer who loves to create and build apps! 🎉🎉🎉
 ## 👨‍💻 Me:
 
 - 🔭 I’m currently working on recreating tesla's website on my own using react!
-- 📚 I'm currently expanding my redux skills
+- 📚 I'm currently expanding my react skills and building websites for practicing purposes
 - 👯 I'm looking to collaborate with other devs 
-- 🥅 My goals for 2020: To contribute to more projects with others
+- 🥅 My goals for 2021: To contribute to more projects with others
 - ⚡️ Fun fact about me: I love to cook and treat coding like coooking 😂
 
 ### 📱 Connection:

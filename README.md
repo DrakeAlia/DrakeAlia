@@ -7,7 +7,7 @@ I'm a Developer who loves to create and build apps! 🎉🎉🎉
 - 📚 I'm currently expanding my react skills and building websites for practicing purposes
 - 👯 I'm looking to collaborate with other devs 
 - 🥅 My goals for 2021: To contribute to more projects with others
-- ⚡️ Fun fact about me: I love to cook and treat coding like coooking 😂
+- ⚡️ Fun fact about me: I love to cook and treat coding like cooking 😂
 
 ### 📱 Connection:
 

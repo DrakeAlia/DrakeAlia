@@ -1,6 +1,6 @@
 # Hi there! I'm Drake Alia 👋
 
-I'm a Developer who loves to create and build apps! 🎉🎉🎉
+And I'm a Developer who loves to create and build dynamic apps! 🎉🎉🎉
 ## 👨‍💻 Me:
 
 - 🔭 I’m currently working on small js projects and algorithms problems

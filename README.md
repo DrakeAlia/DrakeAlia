@@ -3,10 +3,10 @@
 I'm a Developer who loves to create and build apps! 🎉🎉🎉
 ## 👨‍💻 Me:
 
-- 🔭 I’m currently working on recreating tesla's website on my own using react!
-- 📚 I'm currently expanding my react skills and building websites for practicing purposes
+- 🔭 I’m currently working on small js projects and algorithms problems
+- 📚 I'm currently expanding my js and css skills and building websites for practicing purposes
 - 👯 I'm looking to collaborate with other devs 
-- 🥅 My goals for 2021: To contribute to more projects with others
+- 🥅 My goals for 2022: To contribute to more projects with others
 - ⚡️ Fun fact about me: I love to cook and treat coding like cooking 😂
 
 ### 📱 Connection:

@@ -1,6 +1,6 @@
 # Hi there! I'm Drake Alia 👋
 
-And I'm a Full stack engineer who loves to create and build dynamic apps! 🎉🎉🎉
+And I'm a front end engineer who loves to create responsive and build dynamic apps! 🎉🎉🎉
 ## 👨‍💻 Me:
 
 - 🔭 I’m currently working on small js projects and algorithms problems

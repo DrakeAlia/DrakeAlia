@@ -1,13 +1,13 @@
 # Hi there! I'm Drake Alia 👋
 
-And I'm a front end engineer who loves to create responsive and build dynamic apps! 🎉🎉🎉
+And I'm a front-end engineer who loves creating responsive and dynamic apps! 🎉🎉🎉
 ## 👨‍💻 Me:
 
-- 🔭 I’m currently working on small js projects and algorithms problems
-- 📚 I'm currently expanding my js and css skills and building websites for practicing purposes
+- 🔭 I’m currently working on JS/Next.js projects and algorithm problems
+- 📚 I'm currently expanding my Next.js, Tailwind skills, and building websites
 - 👯 I'm looking to collaborate with other devs 
-- 🥅 My goals for 2023: To contribute to more projects with others
-- ⚡️ Fun fact about me: I love to cook and treat coding like cooking 😂
+- 🥅 My goals for 2024: To contribute to more projects with others
+- ⚡️ Fun fact about me: I treat coding like cooking, with lots of different ingredients 😂
 
 ### 📱 Connection:
 
